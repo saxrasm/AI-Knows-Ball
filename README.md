@@ -2,20 +2,20 @@
 
 > Teaching AI to talk like a real one. No cap.
 
-**AI Knows Ball** is an open-source skill pack that trains AI assistants to understand, speak, and detect Gen Z language — authentically. Built in the [Antigravity Skills](https://github.com/guanyang/antigravity-skills) format, plug it into any AI coding assistant in seconds.
+**AI Knows Ball** is the ultimate skill pack to stop your AI from being an NPC. It trains assistants to understand, speak, and detect Gen Z language — fr fr. Built on the [Antigravity Skills](https://github.com/guanyang/antigravity-skills) format so you can plug it in and slay immediately.
 
 ---
 
-## ✨ Skills
+## ✨ The Skills
 
-| Skill | What it does |
+| Skill | Vibe Check |
 |---|---|
-| [`@genz-translator`](skills/genz-translator/SKILL.md) | Translates normal English ↔ Gen Z slang |
-| [`@genz-detector`](skills/genz-detector/SKILL.md) | Scores text for Gen Z authenticity (0–10) |
+| [`@genz-translator`](skills/genz-translator/SKILL.md) | Translates boomer speak ↔ Gen Z bops |
+| [`@genz-detector`](skills/genz-detector/SKILL.md) | Scores the authenticity (0–10). Don't be mid. |
 
 ---
 
-## 📂 Project Structure
+## 📂 The Setup
 
 ```
 AI Knows Ball/
@@ -36,9 +36,9 @@ AI Knows Ball/
 
 ---
 
-## 🚀 Installation
+## 🚀 Getting it Started
 
-### Works with any AI assistant:
+### Works with any AI assistant, periodt:
 
 **Gemini / Antigravity**
 ```bash
@@ -135,9 +135,9 @@ The `data/` folder contains structured training data:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Pull Up (Contribute)
 
-Got new slang? Drop a PR!
+Got new slang? Don't gatekeep, drop a PR!
 
 1. Add new terms to `skills/genz-translator/resources/slang_dict.json`
 2. Add training pairs to `data/training_conversations.jsonl`
@@ -146,7 +146,7 @@ Got new slang? Drop a PR!
 
 ---
 
-## 📜 License
+## 📜 The Fine Print (License)
 
 MIT — free to use, modify, and distribute. Just don't be mid about it.
 
