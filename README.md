@@ -74,6 +74,13 @@ Once installed, invoke in your AI assistant:
 ```
 
 ```
+@genz-translator Explain this: "no ❤️"
+```
+```
+→ A "soft" no — using the heart emoji to lessen the blow of a rejection or disagreement.
+```
+
+```
 @genz-detector "Our new product is totally bussin and on fleek! YOLO!"
 ```
 ```
@@ -93,8 +100,8 @@ Once installed, invoke in your AI assistant:
 
 The `data/` folder contains structured training data:
 
-- **`training_conversations.jsonl`** — Input/output translation pairs (JSONL format)
-- **`slang_dict.json`** — 35+ terms with meanings, examples, authenticity scores, and active/expired status
+- **`training_conversations.jsonl`** — 40+ input/output translation pairs (JSONL format)
+- **`slang_dict.json`** — 50+ terms with meanings, examples, authenticity scores, and active/expired status (including Gen Z emoji meanings)
 
 ### Data Schema
 

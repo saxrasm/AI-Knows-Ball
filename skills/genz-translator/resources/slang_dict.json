@@ -122,7 +122,7 @@
     },
     {
       "term": "fr fr",
-      "meaning": "For real for real — extra emphasis that something is true",
+      "meaning": "For real for real \u2014 extra emphasis that something is true",
       "category": "affirmation",
       "usage": "Double emphasis on honesty",
       "example": "I'm tired fr fr",
@@ -158,7 +158,7 @@
     },
     {
       "term": "rent free",
-      "meaning": "Living in your head without effort — can't stop thinking about it",
+      "meaning": "Living in your head without effort \u2014 can't stop thinking about it",
       "category": "description",
       "usage": "When something keeps coming to mind",
       "example": "That song has been living rent free in my head for weeks",
@@ -239,7 +239,7 @@
     },
     {
       "term": "NPC",
-      "meaning": "Non-playable character — someone who lacks original thought or just follows the crowd",
+      "meaning": "Non-playable character \u2014 someone who lacks original thought or just follows the crowd",
       "category": "insult",
       "usage": "Dismissing someone as robotic or brainless",
       "example": "He just agreed with everything she said. Total NPC.",
@@ -257,7 +257,7 @@
     },
     {
       "term": "delulu",
-      "meaning": "Delusional — believing something unrealistic",
+      "meaning": "Delusional \u2014 believing something unrealistic",
       "category": "description",
       "usage": "Playfully calling out unrealistic thinking",
       "example": "She thinks he likes her back... she's delulu",
@@ -277,7 +277,7 @@
       "term": "on fleek",
       "meaning": "On point, perfect (EXPIRED)",
       "category": "compliment",
-      "usage": "OUTDATED — do not use in 2024+",
+      "usage": "OUTDATED \u2014 do not use in 2024+",
       "example": "Eyebrows on fleek",
       "status": "expired",
       "authenticity_score": 1
@@ -286,7 +286,7 @@
       "term": "YOLO",
       "meaning": "You Only Live Once (EXPIRED)",
       "category": "motivation",
-      "usage": "OUTDATED — Millennial/early Gen Z 2012 era",
+      "usage": "OUTDATED \u2014 Millennial/early Gen Z 2012 era",
       "example": "YOLO let's jump",
       "status": "expired",
       "authenticity_score": 0
@@ -317,6 +317,168 @@
       "example": "He showed up 2 hours late. Understood.",
       "status": "active",
       "authenticity_score": 9
+    },
+    {
+      "term": "deadass",
+      "meaning": "I am serious; for real",
+      "category": "affirmation",
+      "usage": "Stating a fact or asking for confirmation",
+      "example": "I deadass saw a UFO last night",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "periodt",
+      "meaning": "End of discussion; that's a fact",
+      "category": "affirmation",
+      "usage": "Ending a statement with finality",
+      "example": "She's the best singer, periodt.",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "tea",
+      "meaning": "Gossip",
+      "category": "description",
+      "usage": "Talking about or asking for gossip",
+      "example": "Spill the tea, what happened at the party?",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "bop",
+      "meaning": "A really good, catchy song",
+      "category": "compliment",
+      "usage": "Describing music",
+      "example": "This new track is a total bop",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "finesse",
+      "meaning": "To skillfully get something, often by trickery or charm",
+      "category": "action",
+      "usage": "Successfully navigating a situation for gain",
+      "example": "I finessed a free ticket to the show",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "extra",
+      "meaning": "Over the top; unnecessarily dramatic",
+      "category": "insult",
+      "usage": "Describing someone's behavior",
+      "example": "She's being so extra about a minor mistake",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "jawn",
+      "meaning": "A universal term for a person, place, or thing (Philly origin)",
+      "category": "description",
+      "usage": "Replacing any noun",
+      "example": "Pass me that jawn over there",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "opp",
+      "meaning": "Opposition; enemy or competitor",
+      "category": "insult",
+      "usage": "Referring to someone you're against",
+      "example": "Stay away from the opps",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "clapped",
+      "meaning": "Ugly or beaten up",
+      "category": "insult",
+      "usage": "Describing appearance or state",
+      "example": "That car looks totally clapped",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "wig snatched",
+      "meaning": "To be incredibly impressed or shocked",
+      "category": "exclamation",
+      "usage": "Reacting to something amazing",
+      "example": "Her performance left my wig snatched",
+      "status": "active",
+      "authenticity_score": 6
+    },
+    {
+      "term": "\ud83d\udc80",
+      "meaning": "Dying of laughter; 'I'm dead'",
+      "category": "reaction",
+      "usage": "Responding to something hilarious",
+      "example": "That video was so funny \ud83d\udc80\ud83d\udc80",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "\ud83e\udd21",
+      "meaning": "Acting foolish or like a fool",
+      "category": "insult",
+      "usage": "Calling out someone's stupid behavior",
+      "example": "I really thought he'd change \ud83e\udd21",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "\ud83d\ude2d",
+      "meaning": "Overwhelmed by positive emotion (laughter, cuteness)",
+      "category": "reaction",
+      "usage": "Reacting to something cute or funny",
+      "example": "That puppy is so smol \ud83d\ude2d",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "\ud83d\ude05",
+      "meaning": "Sarcastic 'I'm fine but actually stressed'",
+      "category": "reaction",
+      "usage": "Nervous laughter about a bad situation",
+      "example": "Just failed that final \ud83d\ude05",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "\ud83d\udc4d",
+      "meaning": "Sarcastic or passive-aggressive agreement",
+      "category": "reaction",
+      "usage": "Dry response to something unwanted",
+      "example": "Oh you forgot the keys again? \ud83d\udc4d",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "\ud83d\ude43",
+      "meaning": "Masking pain or frustration with a smile; 'this is fine'",
+      "category": "reaction",
+      "usage": "When things are going wrong",
+      "example": "Flight canceled for the third time \ud83d\ude43",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "\ud83d\udc41\ufe0f\ud83d\udc44\ud83d\udc41\ufe0f",
+      "meaning": "Shocked; speechless; 'it is what it is'",
+      "category": "reaction",
+      "usage": "Reacting to something bizarre or shocking",
+      "example": "He really did that? \ud83d\udc41\ufe0f\ud83d\udc44\ud83d\udc41\ufe0f",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "\u23f3",
+      "meaning": "Describing someone with an attractive (hourglass) figure",
+      "category": "compliment",
+      "usage": "Referring to someone's body",
+      "example": "She's looking \u23f3 in that dress",
+      "status": "active",
+      "authenticity_score": 8
     }
   ]
 }

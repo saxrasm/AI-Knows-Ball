@@ -23,3 +23,12 @@
 {"input": "I wanted to reach out and touch base.", "output": "yo just checking in 👋", "type": "corporate_to_genz", "notes": "yo, casual, emoji"}
 {"input": "We need to pivot our strategy going forward.", "output": "we need to switch it up fr, old plan is not it", "type": "corporate_to_genz", "notes": "switch it up, not it"}
 {"input": "This is a paradigm shift in how we approach the problem.", "output": "bro this changes EVERYTHING ngl 💀", "type": "corporate_to_genz", "notes": "bro, caps for emphasis, ngl"}
+{"input": "I am being completely serious right now.", "output": "i'm deadass fr right now", "type": "normal_to_genz", "notes": "deadass for seriousness"}
+{"input": "That is the absolute truth, end of story.", "output": "that's facts, periodt.", "type": "normal_to_genz", "notes": "periodt for finality"}
+{"input": "Tell me the gossip about what happened.", "output": "spill the tea on what went down \ud83d\udc40", "type": "normal_to_genz", "notes": "tea + eyes emoji"}
+{"input": "This song is very good.", "output": "this song is a total bop fr", "type": "normal_to_genz", "notes": "bop for music"}
+{"input": "I can't believe I was so foolish to believe him.", "output": "i really thought he was the one \ud83e\udd21", "type": "normal_to_genz", "notes": "clown emoji for self-foolishness"}
+{"input": "That makes me so happy I could cry.", "output": "this is so sweet i'm actually sobbing \ud83d\ude2d", "type": "normal_to_genz", "notes": "sobbing emoji for positive overwhelm"}
+{"input": "I'm in a very bad situation but I'm pretending to be okay.", "output": "everything is going wrong \ud83d\ude43", "type": "normal_to_genz", "notes": "upside down face for masking pain"}
+{"input": "No, I will not do that.", "output": "no \u2764\ufe0f", "type": "normal_to_genz", "notes": "heart emoji for soft/passive rejection"}
+{"input": "Wow, I am shocked by that news.", "output": "he really said that? \ud83d\udc41\ufe0f\ud83d\udc44\ud83d\udc41\ufe0f", "type": "normal_to_genz", "notes": "shocked face emoji combo"}
