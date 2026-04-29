@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 The Skills
+## The Skills
 
 | Skill | Vibe Check |
 |---|---|
@@ -36,7 +36,7 @@ AI Knows Ball/
 
 ---
 
-## 🫡 Getting it Started
+## Getting it Started
 
 ### Works with any AI assistant, periodt:
 
@@ -62,7 +62,7 @@ cp -r skills/* .agent/skills/
 
 ---
 
-## 👀 Usage
+## Usage
 
 Once installed, invoke in your AI assistant:
 
@@ -96,7 +96,7 @@ Once installed, invoke in your AI assistant:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The `data/` folder contains structured training data:
 
@@ -135,7 +135,7 @@ The `data/` folder contains structured training data:
 
 ---
 
-## 💯 Pull Up (Contribute)
+## Pull Up (Contribute)
 
 Got new slang? Don't gatekeep, drop a PR!
 
@@ -146,7 +146,7 @@ Got new slang? Don't gatekeep, drop a PR!
 
 ---
 
-## 🧢 The Fine Print (License)
+## The Fine Print (License)
 
 MIT — free to use, modify, and distribute. Just don't be mid about it.
 
