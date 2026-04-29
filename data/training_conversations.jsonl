@@ -1,0 +1,25 @@
+{"input": "I am very tired today and don't want to go to work.", "output": "i'm so cooked fr fr, can't even think abt work rn 💀", "type": "normal_to_genz", "notes": "lowercase, fr fr for emphasis, 💀 for exhaustion"}
+{"input": "That concert was absolutely amazing!", "output": "that concert ATE and left no crumbs no cap 🔥", "type": "normal_to_genz", "notes": "ate and left no crumbs, no cap, fire emoji"}
+{"input": "I can't believe he did that, it was very rude.", "output": "the AUDACITY. he really said that?? not it at all", "type": "normal_to_genz", "notes": "caps for emphasis, not it, questioning reaction"}
+{"input": "She looked beautiful at the party.", "output": "she was slaying at that party no cap ✨", "type": "normal_to_genz", "notes": "slaying, no cap, sparkle emoji"}
+{"input": "This new restaurant is incredible, the food is delicious.", "output": "this place is bussin bussin fr, go asap", "type": "normal_to_genz", "notes": "bussin bussin for extra emphasis, fr"}
+{"input": "I failed my exam", "output": "took a massive L on that exam 💀", "type": "normal_to_genz", "notes": "L for loss, skull emoji for dead inside"}
+{"input": "He's really charming and good with people.", "output": "bro has unmatched rizz fr 🔥", "type": "normal_to_genz", "notes": "rizz, bro, fr"}
+{"input": "I think she's being unrealistic about the situation.", "output": "she's being lowkey delulu abt this ngl", "type": "normal_to_genz", "notes": "delulu, lowkey, ngl"}
+{"input": "That movie was just okay, nothing special.", "output": "that movie was so mid tbh", "type": "normal_to_genz", "notes": "mid, tbh"}
+{"input": "I secretly love that embarrassing song.", "output": "lowkey that song lives rent free in my head 😭", "type": "normal_to_genz", "notes": "lowkey, rent free, crying emoji for self-aware embarrassment"}
+{"input": "no cap", "output": "No lie / I'm being completely honest", "type": "genz_to_normal", "notes": "Truth affirmation"}
+{"input": "it's giving villain era", "output": "It has the energy / vibes of someone in their villain era — acting boldly selfish or ruthless", "type": "genz_to_normal", "notes": "it's giving + era combo"}
+{"input": "she understood the assignment", "output": "She did exactly what was expected and executed it perfectly", "type": "genz_to_normal", "notes": "understood the assignment = nailed it"}
+{"input": "bro is an NPC", "output": "That person acts robotically and has no original thoughts — they just follow whatever others do", "type": "genz_to_normal", "notes": "NPC = Non-playable character from gaming"}
+{"input": "the ick hit different this time", "output": "The sudden feeling of disgust/turn-off was especially intense this time", "type": "genz_to_normal", "notes": "ick + hits different combo"}
+{"input": "ratio + fell off", "output": "Your reply got more engagement than your original post AND you're not as good as you used to be", "type": "genz_to_normal", "notes": "internet culture combo insult"}
+{"input": "we're so cooked", "output": "We're in serious trouble and there's likely no way out of this situation", "type": "genz_to_normal", "notes": "cooked = doomed"}
+{"input": "stop glazing him", "output": "Stop blindly praising or sucking up to him — you're being excessive", "type": "genz_to_normal", "notes": "glazing = excessive sycophancy"}
+{"input": "that gave me the ick", "output": "That action suddenly made me lose all attraction or respect for that person", "type": "genz_to_normal", "notes": "ick = romantic/social turn-off"}
+{"input": "main character moment", "output": "A moment where you feel like the protagonist of your own story — bold, cinematic, self-aware", "type": "genz_to_normal", "notes": "main character = living dramatically"}
+{"input": "Hi! Just wanted to follow up on our earlier conversation. I think this is a great opportunity for synergy!", "output": "hey! circling back on what we talked abt — this could actually be kinda bussin ngl 👀", "type": "corporate_to_genz", "notes": "Removed corporate speak, lowercased, bussin, ngl"}
+{"input": "Please let me know at your earliest convenience.", "output": "lmk whenever 💀", "type": "corporate_to_genz", "notes": "Simplified to Gen Z brevity"}
+{"input": "I wanted to reach out and touch base.", "output": "yo just checking in 👋", "type": "corporate_to_genz", "notes": "yo, casual, emoji"}
+{"input": "We need to pivot our strategy going forward.", "output": "we need to switch it up fr, old plan is not it", "type": "corporate_to_genz", "notes": "switch it up, not it"}
+{"input": "This is a paradigm shift in how we approach the problem.", "output": "bro this changes EVERYTHING ngl 💀", "type": "corporate_to_genz", "notes": "bro, caps for emphasis, ngl"}

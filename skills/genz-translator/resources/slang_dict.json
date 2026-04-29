@@ -1,0 +1,322 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-04-29",
+  "description": "Gen Z slang dictionary - community maintained, constantly updated",
+  "terms": [
+    {
+      "term": "no cap",
+      "meaning": "No lie, for real, I'm being honest",
+      "category": "affirmation",
+      "usage": "At the end or start of a statement to emphasize truth",
+      "example": "That movie was fire no cap",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "cap",
+      "meaning": "A lie or exaggeration",
+      "category": "callout",
+      "usage": "When someone is lying or overstating something",
+      "example": "That's cap bro, you weren't even there",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "bussin",
+      "meaning": "Really good, especially food",
+      "category": "compliment",
+      "usage": "To describe something that's excellent, often food",
+      "example": "This ramen is bussin fr",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "it's giving",
+      "meaning": "It reminds me of / it has the energy of",
+      "category": "description",
+      "usage": "Describing the vibe or aesthetic of something",
+      "example": "This outfit is giving main character energy",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "slay",
+      "meaning": "To do something exceptionally well; to look amazing",
+      "category": "compliment",
+      "usage": "Praising someone's appearance, performance, or attitude",
+      "example": "She walked in and absolutely slayed",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "based",
+      "meaning": "Having confidence in your own opinions, not caring what others think; admirable",
+      "category": "compliment",
+      "usage": "When someone does/says something bold and authentic",
+      "example": "He told the truth even when it was unpopular. Based.",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "mid",
+      "meaning": "Mediocre, average, nothing special",
+      "category": "insult",
+      "usage": "Dismissing something as underwhelming",
+      "example": "That movie everyone hyped was honestly mid",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "L",
+      "meaning": "A loss, failure, or embarrassing situation",
+      "category": "insult",
+      "usage": "When someone fails or does something embarrassing",
+      "example": "You got rejected? Major L bro",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "W",
+      "meaning": "A win, success",
+      "category": "compliment",
+      "usage": "When something goes well or someone succeeds",
+      "example": "Got the job? W",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "ratio",
+      "meaning": "When a reply gets more likes than the original post (implies the reply owned the OP)",
+      "category": "callout",
+      "usage": "Internet culture, Twitter/X",
+      "example": "Ratio + you fell off",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "understood the assignment",
+      "meaning": "Did exactly what was expected, and did it perfectly",
+      "category": "compliment",
+      "usage": "Praising someone who nailed something",
+      "example": "That red carpet look? She understood the assignment",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "ate and left no crumbs",
+      "meaning": "Did something perfectly, left nothing to critique",
+      "category": "compliment",
+      "usage": "High praise for performance, appearance, etc.",
+      "example": "That performance? She ate and left no crumbs",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "ngl",
+      "meaning": "Not gonna lie",
+      "category": "filler",
+      "usage": "Admitting something honestly",
+      "example": "Ngl that actually slapped",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "fr fr",
+      "meaning": "For real for real — extra emphasis that something is true",
+      "category": "affirmation",
+      "usage": "Double emphasis on honesty",
+      "example": "I'm tired fr fr",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "lowkey",
+      "meaning": "Somewhat, secretly, subtly",
+      "category": "modifier",
+      "usage": "Downplaying something or admitting it quietly",
+      "example": "I lowkey love that song",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "highkey",
+      "meaning": "Obviously, very much so, openly",
+      "category": "modifier",
+      "usage": "Emphasizing something openly",
+      "example": "I highkey stan that show",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "vibe check",
+      "meaning": "Assessing the energy/mood of a person or situation",
+      "category": "assessment",
+      "usage": "Checking in on someone or evaluating a situation",
+      "example": "This party failed the vibe check",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "rent free",
+      "meaning": "Living in your head without effort — can't stop thinking about it",
+      "category": "description",
+      "usage": "When something keeps coming to mind",
+      "example": "That song has been living rent free in my head for weeks",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "we're so cooked",
+      "meaning": "We're in serious trouble, this is over",
+      "category": "doom",
+      "usage": "Existential dread or when a situation is hopeless",
+      "example": "The exam is tomorrow and I haven't studied. We're so cooked.",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "not it",
+      "meaning": "That's not acceptable, that's wrong, I don't approve",
+      "category": "rejection",
+      "usage": "Dismissing something as bad or unacceptable",
+      "example": "That haircut is not it chief",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "the audacity",
+      "meaning": "I can't believe they had the nerve to do that",
+      "category": "disbelief",
+      "usage": "When someone does something outrageous",
+      "example": "He showed up late and complained? The audacity.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "sus",
+      "meaning": "Suspicious, sketchy",
+      "category": "callout",
+      "usage": "When something seems off or untrustworthy",
+      "example": "That guy is acting super sus",
+      "status": "active",
+      "authenticity_score": 7
+    },
+    {
+      "term": "stan",
+      "meaning": "To be an obsessive fan of; a superfan",
+      "category": "fan_culture",
+      "usage": "Expressing strong fandom",
+      "example": "I stan that artist so hard",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "fire",
+      "meaning": "Excellent, amazing",
+      "category": "compliment",
+      "usage": "General praise for something great",
+      "example": "This track is fire",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "hits different",
+      "meaning": "Has a unique, special impact compared to usual",
+      "category": "description",
+      "usage": "When something affects you more deeply in a specific context",
+      "example": "This song hits different at 3am",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "main character energy",
+      "meaning": "Acting or feeling like the protagonist of your own story",
+      "category": "description",
+      "usage": "When someone is living boldly or dramatically",
+      "example": "Walking through the rain with no umbrella. Main character energy.",
+      "status": "active",
+      "authenticity_score": 9
+    },
+    {
+      "term": "NPC",
+      "meaning": "Non-playable character — someone who lacks original thought or just follows the crowd",
+      "category": "insult",
+      "usage": "Dismissing someone as robotic or brainless",
+      "example": "He just agreed with everything she said. Total NPC.",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "glaze",
+      "meaning": "To excessively praise or suck up to someone",
+      "category": "callout",
+      "usage": "Calling out blind fandom or sycophancy",
+      "example": "Stop glazing that influencer, they literally scammed people",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "delulu",
+      "meaning": "Delusional — believing something unrealistic",
+      "category": "description",
+      "usage": "Playfully calling out unrealistic thinking",
+      "example": "She thinks he likes her back... she's delulu",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "rizz",
+      "meaning": "Natural charisma or ability to attract others romantically",
+      "category": "compliment",
+      "usage": "Praising someone's natural charm",
+      "example": "Bro walked in and had instant rizz",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "on fleek",
+      "meaning": "On point, perfect (EXPIRED)",
+      "category": "compliment",
+      "usage": "OUTDATED — do not use in 2024+",
+      "example": "Eyebrows on fleek",
+      "status": "expired",
+      "authenticity_score": 1
+    },
+    {
+      "term": "YOLO",
+      "meaning": "You Only Live Once (EXPIRED)",
+      "category": "motivation",
+      "usage": "OUTDATED — Millennial/early Gen Z 2012 era",
+      "example": "YOLO let's jump",
+      "status": "expired",
+      "authenticity_score": 0
+    },
+    {
+      "term": "sigma",
+      "meaning": "A lone wolf who doesn't follow the pack; self-sufficient alpha",
+      "category": "identity",
+      "usage": "Ironically or sincerely praising independence",
+      "example": "He doesn't care what anyone thinks. Sigma behavior.",
+      "status": "active",
+      "authenticity_score": 7
+    },
+    {
+      "term": "ick",
+      "meaning": "A sudden feeling of disgust or turn-off from someone",
+      "category": "dating",
+      "usage": "Describing a dealbreaker moment",
+      "example": "He ordered for me without asking. That gave me the ick immediately.",
+      "status": "active",
+      "authenticity_score": 10
+    },
+    {
+      "term": "understood",
+      "meaning": "Acknowledgement, usually sarcastic",
+      "category": "reaction",
+      "usage": "As a dry reaction to something questionable",
+      "example": "He showed up 2 hours late. Understood.",
+      "status": "active",
+      "authenticity_score": 9
+    }
+  ]
+}
