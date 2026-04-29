@@ -1,4 +1,4 @@
-# AI Knows Ball 🏀💀
+# AI Knows Ball
 
 > Teaching AI to talk like a real one. No cap.
 
