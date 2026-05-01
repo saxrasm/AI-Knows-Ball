@@ -100,8 +100,8 @@ Once installed, invoke in your AI assistant:
 
 The `data/` folder contains structured training data:
 
-- **`training_conversations.jsonl`** — 40+ input/output translation pairs (JSONL format)
-- **`slang_dict.json`** — 50+ terms with meanings, examples, authenticity scores, and active/expired status (including Gen Z emoji meanings)
+- **`training_conversations.jsonl`** — 45+ input/output translation pairs (JSONL format)
+- **`slang_dict.json`** — 250+ terms with meanings, examples, authenticity scores, and active/expired status (including Gen Z emoji meanings)
 
 ### Data Schema
 

@@ -479,6 +479,1959 @@
       "example": "She's looking \u23f3 in that dress",
       "status": "active",
       "authenticity_score": 8
+    },
+    {
+      "term": "[kid",
+      "meaning": "safe Tech](https://gabb.com/blog/category/kid-safe-tech)",
+      "category": "general",
+      "usage": "safe Tech](https://gabb.com/blog/category/kid-safe-tech)",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "addy",
+      "meaning": "Abbreviation for Address.",
+      "category": "abbreviation",
+      "usage": "Abbreviation for Address.",
+      "example": "I\u2019ll meet you there, just send me the addy.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "af",
+      "meaning": "An acronym that stands for As f**k.",
+      "category": "acronym",
+      "usage": "An acronym that stands for As f**k.",
+      "example": "I had the time of my life at the concert. It was lit AF!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "amirite",
+      "meaning": "An informal way to say \u201cam I right,\u201d used to seek agreement after making a statement.",
+      "category": "general",
+      "usage": "An informal way to say \u201cam I right,\u201d used to seek agreement after making a statement.",
+      "example": "That taco was bomb, amirite?",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "amped",
+      "meaning": "Excited",
+      "category": "general",
+      "usage": "Excited",
+      "example": "I\u2019m amped for the concert tonight!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "and i oop",
+      "meaning": "Used to express surprise, shock, or realization, often in response to something unexpected or amusing.",
+      "category": "general",
+      "usage": "Used to express surprise, shock, or realization, often in response to something unexpected or amusing.",
+      "example": "She accidentally knocked over her cup, and I oop, there it goes all over the floor.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "asl",
+      "meaning": "An abbreviation for \u201cas hell.\u201d It is used as an intensifier. This term may also be used as an acronym for \u201cage, sex, location,\u201d to quickly inquire about someone\u2019s basic demographic information. But that usage has mostly been replaced by Gen Z with the new \u201cas hell\u201d usage.",
+      "category": "abbreviation",
+      "usage": "An abbreviation for \u201cas hell.\u201d It is used as an intensifier. This term may also be used as an acronym for \u201cage, sex, location,\u201d to quickly inquire about someone\u2019s basic demographic information. But that usage has mostly been replaced by Gen Z with the new \u201cas hell\u201d usage.",
+      "example": "Those new shoes are cool asl.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "aura",
+      "meaning": "Like the traditional definition, it is used to compliment someone\u2019s ability, perceived power, or sense of coolness and mystery. It became popular in soccer and basketball communities on Twitter in 2023 so it is often used to compliment athletes.",
+      "category": "general",
+      "usage": "Like the traditional definition, it is used to compliment someone\u2019s ability, perceived power, or sense of coolness and mystery. It became popular in soccer and basketball communities on Twitter in 2023 so it is often used to compliment athletes.",
+      "example": "Did you see Steph Curry\u2019s clutch shot last night? He\u2019s got crazy aura.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "bae",
+      "meaning": "Boyfriend or girlfriend.",
+      "category": "general",
+      "usage": "Boyfriend or girlfriend.",
+      "example": "Wait, bae is calling me.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "bandwagon",
+      "meaning": "Someone who takes an interest in something just to fit in with the crowd.",
+      "category": "general",
+      "usage": "Someone who takes an interest in something just to fit in with the crowd.",
+      "example": "Maggie suddenly loves rugby, she is a major bandwagon fan.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "basic",
+      "meaning": "Someone who is unoriginal and only interested in popular, trending things.",
+      "category": "general",
+      "usage": "Someone who is unoriginal and only interested in popular, trending things.",
+      "example": "She\u2019s so basic with her pumpkin spice latte.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "bbg",
+      "meaning": "An acronym that stands for baby girl, describing something or someone cute. It can also stand for: Better be going, a polite way to end a conversation.",
+      "category": "acronym",
+      "usage": "An acronym that stands for baby girl, describing something or someone cute. It can also stand for: Better be going, a polite way to end a conversation.",
+      "example": "I love that dress on you bbg!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "bde",
+      "meaning": "An acronym that stands for: Big dick energy, someone who is secure and exudes confidence without arrogance.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Big dick energy, someone who is secure and exudes confidence without arrogance.",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "bed rot",
+      "meaning": "Spending extended periods of time in bed, often engaging in activities like watching TV or reading.",
+      "category": "general",
+      "usage": "Spending extended periods of time in bed, often engaging in activities like watching TV or reading.",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "beige flag",
+      "meaning": "Used humorously to refer to a situation that is mundane, uninteresting, or lacking excitement.",
+      "category": "general",
+      "usage": "Used humorously to refer to a situation that is mundane, uninteresting, or lacking excitement.",
+      "example": "His alphabetized bookshelf is a beige flag.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "bet",
+      "meaning": "In agreement with something, or used for okay or affirmative.",
+      "category": "general",
+      "usage": "In agreement with something, or used for okay or affirmative.",
+      "example": "Person 1: Want to come over to my house?",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "big back",
+      "meaning": "Refers to someone who is overweight, typically to bully or shame them.",
+      "category": "general",
+      "usage": "Refers to someone who is overweight, typically to bully or shame them.",
+      "example": "She ate that whole plate of spaghetti. That\u2019s some big back behavior!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "big yikes",
+      "meaning": "A reaction to something very awkward, uncomfortable, or embarrassing.",
+      "category": "general",
+      "usage": "A reaction to something very awkward, uncomfortable, or embarrassing.",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "bih",
+      "meaning": "A phonetic spelling of \u201cb***h.\u201d Often used in a less aggressive way, and depending on the tone and context, can be used jokingly among friends or as a playful term of endearment.",
+      "category": "general",
+      "usage": "A phonetic spelling of \u201cb***h.\u201d Often used in a less aggressive way, and depending on the tone and context, can be used jokingly among friends or as a playful term of endearment.",
+      "example": "She playfully teased her friend, calling her \u201cbih,\u201d as they laughed together.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "body count",
+      "meaning": "The number of sexual partners someone has had.",
+      "category": "general",
+      "usage": "The number of sexual partners someone has had.",
+      "example": "She was hesitant to reveal her body count, fearing she\u2019d be judged.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "boo",
+      "meaning": "A term of endearment used to refer to a romantic partner.",
+      "category": "general",
+      "usage": "A term of endearment used to refer to a romantic partner.",
+      "example": "I can\u2019t wait to see my boo tonight.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "boo\u2019d up",
+      "meaning": "Refers to being in a romantic relationship with someone.",
+      "category": "general",
+      "usage": "Refers to being in a romantic relationship with someone.",
+      "example": "After months of flirting, they finally boo\u2019d up.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "boomer/okay boomer",
+      "meaning": "A dismissive retort used to mock the opinions, ideas, or attitudes of older individuals, particularly members of the Baby Boomer generation.",
+      "category": "general",
+      "usage": "A dismissive retort used to mock the opinions, ideas, or attitudes of older individuals, particularly members of the Baby Boomer generation.",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "when clayton\u2019s great",
+      "meaning": "uncle started complaining about millennials\u2019 work ethic, he responded with, \u201cOkay, Boomer.\u201d",
+      "category": "general",
+      "usage": "uncle started complaining about millennials\u2019 work ethic, he responded with, \u201cOkay, Boomer.\u201d",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "boujee",
+      "meaning": "Rich, luxurious, fancy",
+      "category": "general",
+      "usage": "Rich, luxurious, fancy",
+      "example": "You grew up going to this boujee country club?",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "brat",
+      "meaning": "A term coined by singer Charlie XCX in a tweet, \u201cbrat\u201d describes a person (often female) who is genuine, self-possessed, non-conforming, with a rebellious streak. It is represented by a florescent, chartreuse green, which symbolizes making a statement.",
+      "category": "general",
+      "usage": "A term coined by singer Charlie XCX in a tweet, \u201cbrat\u201d describes a person (often female) who is genuine, self-possessed, non-conforming, with a rebellious streak. It is represented by a florescent, chartreuse green, which symbolizes making a statement.",
+      "example": "Kamala is brat.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "bussin\u2019",
+      "meaning": "Something is really good.",
+      "category": "general",
+      "usage": "Something is really good.",
+      "example": "This burrito is bussin\u2019! I\u2019m definitely coming back here.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "buttah",
+      "meaning": "A compliment that describes something that is smooth, easy, and good.",
+      "category": "general",
+      "usage": "A compliment that describes something that is smooth, easy, and good.",
+      "example": "That new song you dropped is pure buttah.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "cake",
+      "meaning": "A large, well-shaped bottom.",
+      "category": "general",
+      "usage": "A large, well-shaped bottom.",
+      "example": "She caught him checking out her cake as she walked past him at the beach.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "cash",
+      "meaning": "Awesome or cool.",
+      "category": "general",
+      "usage": "Awesome or cool.",
+      "example": "That new movie is so cash!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "catch feels",
+      "meaning": "Develop romantic or emotional attachment to someone.",
+      "category": "general",
+      "usage": "Develop romantic or emotional attachment to someone.",
+      "example": "I noticed Lea starting to catch feels for Bruce.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "catfish",
+      "meaning": "A person who creates a fake online persona to deceive others.",
+      "category": "general",
+      "usage": "A person who creates a fake online persona to deceive others.",
+      "example": "He thought he was talking to a model on the dating app, but it turned out to be a catfish using stolen photos from the internet.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "caught in 4k",
+      "meaning": "Someone caught in the act of something compromising.",
+      "category": "general",
+      "usage": "Someone caught in the act of something compromising.",
+      "example": "He thought he could get away with lying, but we have him caught in 4k.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "chad",
+      "meaning": "A stereotypical, confident, dominant male. Often used humorously and with negative connotations.",
+      "category": "general",
+      "usage": "A stereotypical, confident, dominant male. Often used humorously and with negative connotations.",
+      "example": "He thinks he knows everything. He\u2019s such a Chad.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "chat",
+      "meaning": "Used to refer to a group of people, like friends or people in their class.",
+      "category": "general",
+      "usage": "Used to refer to a group of people, like friends or people in their class.",
+      "example": "Chat, do you think he\u2019s telling the truth?",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "cheugy",
+      "meaning": "Someone or something that is out-of-date, unfashionable, or trying too hard.",
+      "category": "general",
+      "usage": "Someone or something that is out-of-date, unfashionable, or trying too hard.",
+      "example": "I can\u2019t believe she\u2019s still wearing skinny jeans, that\u2019s so cheugy.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "clapback",
+      "meaning": "A sharp and witty response to criticism or an insult.",
+      "category": "general",
+      "usage": "A sharp and witty response to criticism or an insult.",
+      "example": "When Tori called her outfit cheugy, her clapback was for real!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "cooked",
+      "meaning": "Something or someone that is done, exhausted, or doomed.",
+      "category": "general",
+      "usage": "Something or someone that is done, exhausted, or doomed.",
+      "example": "I was up all night but didn\u2019t even get halfway through the study guide, I\u2019m cooked.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "crash out",
+      "meaning": "To get mad or upset despite your better judgment.",
+      "category": "general",
+      "usage": "To get mad or upset despite your better judgment.",
+      "example": "This game is making me so mad, I\u2019m about to crash out.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "cray cray",
+      "meaning": "Short for crazy.",
+      "category": "general",
+      "usage": "Short for crazy.",
+      "example": "I\u2019ve been so busy this week, it\u2019s cray cray!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "cringe",
+      "meaning": "A feeling of embarrassment and discomfort.",
+      "category": "general",
+      "usage": "A feeling of embarrassment and discomfort.",
+      "example": "Watching Annie try to talk to James was so cringe.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "crossfaded",
+      "meaning": "Being drunk and high at the same time.",
+      "category": "general",
+      "usage": "Being drunk and high at the same time.",
+      "example": "Richie shouldn\u2019t drive, he\u2019s crossfaded.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "curve",
+      "meaning": "The act of rejecting or ignoring someone\u2019s romantic advances.",
+      "category": "general",
+      "usage": "The act of rejecting or ignoring someone\u2019s romantic advances.",
+      "example": "Despite her attempts to flirt with him, he consistently curved her.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "dank",
+      "meaning": "Excellent, high quality.",
+      "category": "general",
+      "usage": "Excellent, high quality.",
+      "example": "The party last night was dank!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "dap",
+      "meaning": "A gesture of greeting or expression of admiration between two people performed with hands, similar to a low-five and handshake.",
+      "category": "general",
+      "usage": "A gesture of greeting or expression of admiration between two people performed with hands, similar to a low-five and handshake.",
+      "example": "That was sick! Dap me up!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "dayroom",
+      "meaning": "Something or someone that is basic and uninteresting.",
+      "category": "general",
+      "usage": "Something or someone that is basic and uninteresting.",
+      "example": "Everything about him is dayroom.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "dead/dying/ded",
+      "meaning": "A response to something really funny.",
+      "category": "general",
+      "usage": "A response to something really funny.",
+      "example": "That meme you sent me. I\u2019m dead!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "dip",
+      "meaning": "To leave suddenly or early.",
+      "category": "general",
+      "usage": "To leave suddenly or early.",
+      "example": "I\u2019m about to dip.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "dl",
+      "meaning": "An acronym that stands for: Down low, referring to an activity or information that is meant to be kept discreet.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Down low, referring to an activity or information that is meant to be kept discreet.",
+      "example": "We\u2019ve been talking, but we\u2019re keeping it on the DL for now.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "dope",
+      "meaning": "Something that is exceptional or awesome.",
+      "category": "general",
+      "usage": "Something that is exceptional or awesome.",
+      "example": "That bike is dope!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "dox",
+      "meaning": "To seek out and [publish private information online about someone](https://gabb.com/blog/what-is-doxxing/), usually with malicious intentions.",
+      "category": "general",
+      "usage": "To seek out and [publish private information online about someone](https://gabb.com/blog/what-is-doxxing/), usually with malicious intentions.",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "drag",
+      "meaning": "To mock or humiliate someone.",
+      "category": "general",
+      "usage": "To mock or humiliate someone.",
+      "example": "Bettie will never be invited back after she dragged Peter.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "drip",
+      "meaning": "Sophisticated or stylish in appearance.",
+      "category": "general",
+      "usage": "Sophisticated or stylish in appearance.",
+      "example": "You got drip with those new shoes.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "dtf",
+      "meaning": "An acronym that stands for Down to f**k. Indicates a person\u2019s willingness to engage in sexual activity.",
+      "category": "acronym",
+      "usage": "An acronym that stands for Down to f**k. Indicates a person\u2019s willingness to engage in sexual activity.",
+      "example": "She asked him if he was DTF, but he wasn\u2019t sure how to respond.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "dub",
+      "meaning": "Short for W, meaning win or winner.",
+      "category": "general",
+      "usage": "Short for W, meaning win or winner.",
+      "example": "We took the dub.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "egirl/eboy",
+      "meaning": "Frequently found on TikTok, it\u2019s someone who has adopted an edgy style including a blushed nose, heavy eyeliner, and little hearts under the eyes.",
+      "category": "general",
+      "usage": "Frequently found on TikTok, it\u2019s someone who has adopted an edgy style including a blushed nose, heavy eyeliner, and little hearts under the eyes.",
+      "example": "I\u2019ve been thinking about changing my style to something more like an Eboy.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "facts",
+      "meaning": "Emphasizes agreement of something that is accurate or true.",
+      "category": "general",
+      "usage": "Emphasizes agreement of something that is accurate or true.",
+      "example": "Person 1: His new album is fire.\u00a0Person 2: Straight facts!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "faded",
+      "meaning": "Being under the influence of marijuana.",
+      "category": "general",
+      "usage": "Being under the influence of marijuana.",
+      "example": "You should have seen her last night, she was so faded.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "fan service",
+      "meaning": "Elements added to an entertainment piece that is a subtle nod to avid fans, like an inside joke that other viewers won\u2019t understand. Also known as easter eggs.",
+      "category": "general",
+      "usage": "Elements added to an entertainment piece that is a subtle nod to avid fans, like an inside joke that other viewers won\u2019t understand. Also known as easter eggs.",
+      "example": "If you\u2019re a Marvel fan you\u2019ll love this episode. It has a ton of fan service.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "fboi",
+      "meaning": "Abbreviation for F**kboy. A derogatory term used to describe a promiscuous, manipulative, and disrespectful man.",
+      "category": "abbreviation",
+      "usage": "Abbreviation for F**kboy. A derogatory term used to describe a promiscuous, manipulative, and disrespectful man.",
+      "example": "She quickly realized he was just another fboi when he started ghosting her after their first date.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "ffa",
+      "meaning": "Free for all, in a multi-player video game all players must fend for themselves.",
+      "category": "general",
+      "usage": "Free for all, in a multi-player video game all players must fend for themselves.",
+      "example": "I wish we could play in teams and not FFA.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "finna",
+      "meaning": "Abbreviation for fixing to, or going to.",
+      "category": "abbreviation",
+      "usage": "Abbreviation for fixing to, or going to.",
+      "example": "I\u2019m finna go to the mall.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "finsta",
+      "meaning": "A combination of the words \u201cfake\u201d and \u201cInstagram.\u201d Refers to a secondary or [private Instagram account](https://gabb.com/blog/how-to-find-childs-hidden-insta/) that users create to share content with a smaller, more selective audience.",
+      "category": "general",
+      "usage": "A combination of the words \u201cfake\u201d and \u201cInstagram.\u201d Refers to a secondary or [private Instagram account](https://gabb.com/blog/how-to-find-childs-hidden-insta/) that users create to share content with a smaller, more selective audience.",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "fit",
+      "meaning": "An outfit.",
+      "category": "general",
+      "usage": "An outfit.",
+      "example": "You\u2019re always so fashionable. Amazing fit!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "flavored air",
+      "meaning": "Vaping.",
+      "category": "general",
+      "usage": "Vaping.",
+      "example": "He always has flavored air.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "flex",
+      "meaning": "To flaunt or brag about something.",
+      "category": "general",
+      "usage": "To flaunt or brag about something.",
+      "example": "He\u2019s flexing with those kicks.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "fml",
+      "meaning": "F**k my life, often used at the conclusion of a negative story.",
+      "category": "general",
+      "usage": "F**k my life, often used at the conclusion of a negative story.",
+      "example": "I missed the bus this morning so I had to walk all the way to school. FML.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "fr",
+      "meaning": "An acronym that means: For real, to agree with someone.",
+      "category": "acronym",
+      "usage": "An acronym that means: For real, to agree with someone.",
+      "example": "Person 1: The homework was so hard.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "frfr",
+      "meaning": "Abbreviation for: for real for real. A way to emphasize sincerity or seriousness.",
+      "category": "abbreviation",
+      "usage": "Abbreviation for: for real for real. A way to emphasize sincerity or seriousness.",
+      "example": "I\u2019m tired of waiting for my ride in this cold weather, FRFR!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "ftw",
+      "meaning": "An acronym that means: For the win. An enthusiastic emphasis to express approval or support.",
+      "category": "acronym",
+      "usage": "An acronym that means: For the win. An enthusiastic emphasis to express approval or support.",
+      "example": "I just tried the best Thai restaurant. Mango sticky rice FTW!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "fuhuhluhtoogan",
+      "meaning": "Someone who is good in bed. The word is credited to Baltimore rapper, Richard Webster (rap name Bippleyipsnipp), and became popular on TikTok in late 2023.",
+      "category": "general",
+      "usage": "Someone who is good in bed. The word is credited to Baltimore rapper, Richard Webster (rap name Bippleyipsnipp), and became popular on TikTok in late 2023.",
+      "example": "She\u2019s a fuhuhluhtoogan.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "fugly",
+      "meaning": "F***ing ugly, or extremely ugly.",
+      "category": "general",
+      "usage": "F***ing ugly, or extremely ugly.",
+      "example": "I can\u2019t believe I wore that! It\u2019s so fugly.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "furry",
+      "meaning": "A person who is a fan of anthropomorphic animals (animals with human characteristics), or someone who dresses up to resemble the animal.",
+      "category": "general",
+      "usage": "A person who is a fan of anthropomorphic animals (animals with human characteristics), or someone who dresses up to resemble the animal.",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "fw",
+      "meaning": "An acronym for, \u201cF**k With,\u201d that is used to express that someone really likes something or someone.",
+      "category": "acronym",
+      "usage": "An acronym for, \u201cF**k With,\u201d that is used to express that someone really likes something or someone.",
+      "example": "I don\u2019t usually like superhero movies, but I really fw this movie. It\u2019s so funny!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "fwb",
+      "meaning": "An acronym for \u201cfriends with benefits.\u201d An arrangement where two people engage in sexual activity without being in a committed romantic relationship.",
+      "category": "acronym",
+      "usage": "An acronym for \u201cfriends with benefits.\u201d An arrangement where two people engage in sexual activity without being in a committed romantic relationship.",
+      "example": "She wasn\u2019t interested in a serious commitment, so she proposed the idea of being FWB to him.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "fyp",
+      "meaning": "Refers to TikTok\u2019s \u201cFor You Page\u201d that\u2019s filled with recommended content and videos personalized for the viewer.",
+      "category": "general",
+      "usage": "Refers to TikTok\u2019s \u201cFor You Page\u201d that\u2019s filled with recommended content and videos personalized for the viewer.",
+      "example": "My FYP had the weirdest feed today.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "g",
+      "meaning": "A term of endearment for friends.",
+      "category": "general",
+      "usage": "A term of endearment for friends.",
+      "example": "I have nothing but love and respect for my G.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "gassing",
+      "meaning": "Exaggerating someone else\u2019s abilities, accomplishments, or qualities.",
+      "category": "general",
+      "usage": "Exaggerating someone else\u2019s abilities, accomplishments, or qualities.",
+      "example": "She\u2019s already confident enough, she doesn\u2019t need any more gassing.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "gg",
+      "meaning": "An acronym that stands for: Good game, used to acknowledge a player\u2019s skill at the end of multiplayer video games.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Good game, used to acknowledge a player\u2019s skill at the end of multiplayer video games.",
+      "example": "GG! We should play again sometime.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "ghost",
+      "meaning": "Cutting off communication with someone with no explanation.",
+      "category": "general",
+      "usage": "Cutting off communication with someone with no explanation.",
+      "example": "We went on a date, and then he ghosted me.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "girl math",
+      "meaning": "Used in a lighthearted or humorous way when someone calculated things in a way that might not follow conventional rules.",
+      "category": "general",
+      "usage": "Used in a lighthearted or humorous way when someone calculated things in a way that might not follow conventional rules.",
+      "example": "She\u2019s using girl math to justify buying another pair of shoes because they were on sale.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "girl dinner",
+      "meaning": "A social media trend to describe a meal made up of small snacks, random, or unhealthy food as \u201cdinner.\u201d",
+      "category": "general",
+      "usage": "A social media trend to describe a meal made up of small snacks, random, or unhealthy food as \u201cdinner.\u201d",
+      "example": "\u201cI had some pickles and a left over milkshake last night. Girl dinner!\u201d",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "gigachad",
+      "meaning": "A term to describe \u201cthe ultimate man,\u201d or someone that is particularly masculine, muscular, or handsome.",
+      "category": "general",
+      "usage": "A term to describe \u201cthe ultimate man,\u201d or someone that is particularly masculine, muscular, or handsome.",
+      "example": "My crush is so cute. He is such a gigachad!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "giving me life",
+      "meaning": "Something or someone that is exciting.",
+      "category": "general",
+      "usage": "Something or someone that is exciting.",
+      "example": "This warm weather is giving me life!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "glow",
+      "meaning": "up \u2013 A major transformation in appearance in a way that is generally perceived as attractive.",
+      "category": "general",
+      "usage": "up \u2013 A major transformation in appearance in a way that is generally perceived as attractive.",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "she had a glow",
+      "meaning": "up. She looks great!",
+      "category": "general",
+      "usage": "up. She looks great!",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "goat",
+      "meaning": "An acronym that stands for: Greatest of all time, praising someone for being the best. A variation of GOAT is \u201cgoated,\u201d as in, \u201ckeep winning like that and you\u2019re going to get goated!\u201d",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Greatest of all time, praising someone for being the best. A variation of GOAT is \u201cgoated,\u201d as in, \u201ckeep winning like that and you\u2019re going to get goated!\u201d",
+      "example": "My coach is the GOAT!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "granola",
+      "meaning": "A person who is environmentally aware, and enjoys the outdoors.",
+      "category": "general",
+      "usage": "A person who is environmentally aware, and enjoys the outdoors.",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "guap",
+      "meaning": "A large sum of money.",
+      "category": "general",
+      "usage": "A large sum of money.",
+      "example": "Sally must have paid a guap for those shoes.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "gucci",
+      "meaning": "Fancy, fashionable, or excellent.",
+      "category": "general",
+      "usage": "Fancy, fashionable, or excellent.",
+      "example": "Person 1: I\u2019ll pick you up in 10.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "gyat",
+      "meaning": "Abbreviation for girl your a** is thick, and also godd**n. A way to express admiration and excitement, usually about someone\u2019s backside.",
+      "category": "abbreviation",
+      "usage": "Abbreviation for girl your a** is thick, and also godd**n. A way to express admiration and excitement, usually about someone\u2019s backside.",
+      "example": "Gyat! Those jeans make you look so good!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "hammered",
+      "meaning": "Extremely intoxicated from alcohol or drugs.",
+      "category": "general",
+      "usage": "Extremely intoxicated from alcohol or drugs.",
+      "example": "He was so hammered we had to take him to the E.R.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "heated",
+      "meaning": "Angry or frustrated.",
+      "category": "general",
+      "usage": "Angry or frustrated.",
+      "example": "He got heated when he thought I took his ball.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "heem",
+      "meaning": "A better version of something, the total package.",
+      "category": "general",
+      "usage": "A better version of something, the total package.",
+      "example": "The new boy is heem!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "hella skrilla",
+      "meaning": "To have a large sum of money.",
+      "category": "general",
+      "usage": "To have a large sum of money.",
+      "example": "My parents went out of town and left me hella skrilla.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "here for this",
+      "meaning": "Excited about something, showing support.",
+      "category": "general",
+      "usage": "Excited about something, showing support.",
+      "example": "You\u2019re an amazing artist. I\u2019m here for this.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "high key",
+      "meaning": "Something that is overt, obvious, or done with a high level of intensity.",
+      "category": "general",
+      "usage": "Something that is overt, obvious, or done with a high level of intensity.",
+      "example": "I high key love that new movie.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "highlighter kid",
+      "meaning": "A young child who wears neon colored clothes.",
+      "category": "general",
+      "usage": "A young child who wears neon colored clothes.",
+      "example": "Look for Adam! You can\u2019t miss him, he\u2019s a highlighter kid.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "hollywood",
+      "meaning": "A negative change in behavior in someone who achieves success and looks down on their past life.",
+      "category": "general",
+      "usage": "A negative change in behavior in someone who achieves success and looks down on their past life.",
+      "example": "After Alice made the cheerleading team she became Hollywood.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "hop off",
+      "meaning": "An expression used to tell someone to stop bothering or annoying another.",
+      "category": "general",
+      "usage": "An expression used to tell someone to stop bothering or annoying another.",
+      "example": "When he kept pestering her with questions, she told him to hop off and give her some space.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "hot take",
+      "meaning": "A strongly worded and often controversial opinion on a current event or popular topic.",
+      "category": "general",
+      "usage": "A strongly worded and often controversial opinion on a current event or popular topic.",
+      "example": "I watched the new superhero movie. The cast was amazing, but the storyline was sketch. That\u2019s my hot take for the day.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "hunty",
+      "meaning": "Combination of \u201choney\u201d and \u201cc**t.\u201d Often used in the LGBTQ+ community (especially within the transgender community) as a term of endearment or familiarity among friends.",
+      "category": "general",
+      "usage": "Combination of \u201choney\u201d and \u201cc**t.\u201d Often used in the LGBTQ+ community (especially within the transgender community) as a term of endearment or familiarity among friends.",
+      "example": "\u201cHey hunty, you look fabulous in that outfit!\u201d",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "hype",
+      "meaning": "Excited, or something is good.",
+      "category": "general",
+      "usage": "Excited, or something is good.",
+      "example": "This song is so hype!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "icymi",
+      "meaning": "An acronym that stands for: In case you missed it.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: In case you missed it.",
+      "example": "ICYMI, I\u2019m headed to Cal State this fall!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "irl",
+      "meaning": "An acronym that stands for In real life. Used to distinguish between online and offline interactions.",
+      "category": "acronym",
+      "usage": "An acronym that stands for In real life. Used to distinguish between online and offline interactions.",
+      "example": "He has a lot of online friends, but he\u2019s never met them in IRL.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "iso",
+      "meaning": "An acronym that stands for In search of. Used in online forums, classified ads, or social media posts to indicate that someone is looking for a specific item, service, or information.",
+      "category": "acronym",
+      "usage": "An acronym that stands for In search of. Used in online forums, classified ads, or social media posts to indicate that someone is looking for a specific item, service, or information.",
+      "example": "ISO vintage vinyl records.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "iykyk",
+      "meaning": "An acronym that stands for: If you know, you know. Indicates insider knowledge or a shared experience between a group of people.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: If you know, you know. Indicates insider knowledge or a shared experience between a group of people.",
+      "example": "The ski trip was wild! IYKYK.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "jittleyang",
+      "meaning": "Another word (see fuhuhluhtoogan) credited to Baltimore rapper, Richard Webster, that became popular on TikTok in late 2023. No clear definition exists but, as best we can tell, it refers to someone or something that grabs attention.",
+      "category": "general",
+      "usage": "Another word (see fuhuhluhtoogan) credited to Baltimore rapper, Richard Webster, that became popular on TikTok in late 2023. No clear definition exists but, as best we can tell, it refers to someone or something that grabs attention.",
+      "example": "That hat is a jittleyang!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "juul",
+      "meaning": "A brand of electronic cigarettes, also known as a vape.",
+      "category": "general",
+      "usage": "A brand of electronic cigarettes, also known as a vape.",
+      "example": "She discreetly pulled out her Juul and took a puff while waiting for the bus.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "kda",
+      "meaning": "An acronym that stands for: Kills/Deaths/Assists, a tally of how many kills, deaths, and assists a gamer has in a game.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Kills/Deaths/Assists, a tally of how many kills, deaths, and assists a gamer has in a game.",
+      "example": "Your KDA was dope this game.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "keep it 100",
+      "meaning": "To be honest, genuine, and authentic in all situations.",
+      "category": "general",
+      "usage": "To be honest, genuine, and authentic in all situations.",
+      "example": "I appreciate when my friends keep it 100 with me, even if the truth might be hard to hear.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "kms",
+      "meaning": "An acronym that stands for Kill myself. Often used in a joking manner to express extreme frustration, disappointment, or annoyance with a situation. It can also be used when talking about suicide or self-harm.",
+      "category": "acronym",
+      "usage": "An acronym that stands for Kill myself. Often used in a joking manner to express extreme frustration, disappointment, or annoyance with a situation. It can also be used when talking about suicide or self-harm.",
+      "example": "The teacher just announced a pop quiz. KMS.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "krunk",
+      "meaning": "Extremely intoxicated with a mixture of alcohol and drugs.",
+      "category": "general",
+      "usage": "Extremely intoxicated with a mixture of alcohol and drugs.",
+      "example": "He got krunk last night.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "kys",
+      "meaning": "An acronym that stands for Kill yourself. An offensive and harmful phrase used to harass someone, often online.",
+      "category": "acronym",
+      "usage": "An acronym that stands for Kill yourself. An offensive and harmful phrase used to harass someone, often online.",
+      "example": "Someone\u2019s been cyberbullying her and sending KYS messages.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "left on read",
+      "meaning": "When someone has read a message sent to them, but has not responded to it.",
+      "category": "general",
+      "usage": "When someone has read a message sent to them, but has not responded to it.",
+      "example": "I texted him last night, but he left me on read. I\u2019m not sure if he\u2019s busy or just ignoring me.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "let them cook",
+      "meaning": "Trusting someone\u2019s abilities and giving them the freedom to handle things their own way.",
+      "category": "general",
+      "usage": "Trusting someone\u2019s abilities and giving them the freedom to handle things their own way.",
+      "example": "I know you want to help, but they\u2019ve got it under control. Let\u2019s just sit back and let them cook.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "let\u2019s get this bread",
+      "meaning": "A motivational phrase to encourage oneself or others to work hard, often in the context of achieving financial stability.",
+      "category": "general",
+      "usage": "A motivational phrase to encourage oneself or others to work hard, often in the context of achieving financial stability.",
+      "example": "After weeks of preparation, it\u2019s finally time to give that presentation. Let\u2019s get this bread!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "lewk",
+      "meaning": "A stylized spelling of \u201clook.\u201d A carefully curated or striking outfit, appearance, or aesthetic.",
+      "category": "general",
+      "usage": "A stylized spelling of \u201clook.\u201d A carefully curated or striking outfit, appearance, or aesthetic.",
+      "example": "She showed up to the party in a stunning lewk that turned heads all night.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "lfg",
+      "meaning": "An acronym that stands for: Let\u2019s f**king go, excited for an upcoming event or competition.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Let\u2019s f**king go, excited for an upcoming event or competition.",
+      "example": "I\u2019m cheering on my team tonight. LFG!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "lit",
+      "meaning": "Exciting, excellent, or intoxicated.",
+      "category": "general",
+      "usage": "Exciting, excellent, or intoxicated.",
+      "example": "The movie was lit!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "lmao",
+      "meaning": "An acronym that stands for: Laughing my a** off, indicates something is funny.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Laughing my a** off, indicates something is funny.",
+      "example": "Remember when I fell going up the stairs? LMAO!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "lms",
+      "meaning": "An acronym that stands for: Like my status, used on social media asking for viewers to like the content.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Like my status, used on social media asking for viewers to like the content.",
+      "example": "LMS to enter the giveaway.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "lol",
+      "meaning": "An acronym that stands for: Laugh out loud, expressing amusement at something.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Laugh out loud, expressing amusement at something.",
+      "example": "LOL at your ostrich video!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "looksmaxxing",
+      "meaning": "Boys who are trying\u00a0 to improve their appearance through various methods such as a new haircut, implementing a skincare routine, exercising, and changing their diets.",
+      "category": "general",
+      "usage": "Boys who are trying\u00a0 to improve their appearance through various methods such as a new haircut, implementing a skincare routine, exercising, and changing their diets.",
+      "example": "Connor really embraced looksmaxxing. He looks completely different.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "low taper fade",
+      "meaning": "Although this is a type of hairstyle, the phrase comes from a meme started by Eric Della, a music artist. During a livestream, he was freestyling. He referenced a fellow streamer known as Ninja and said, \u201cImagine if Ninja got a low taper fade!\u201d After Ninja responded by changing his hair, kids started using the phrase in random moments as a fun, light-hearted joke.",
+      "category": "general",
+      "usage": "Although this is a type of hairstyle, the phrase comes from a meme started by Eric Della, a music artist. During a livestream, he was freestyling. He referenced a fellow streamer known as Ninja and said, \u201cImagine if Ninja got a low taper fade!\u201d After Ninja responded by changing his hair, kids started using the phrase in random moments as a fun, light-hearted joke.",
+      "example": "You say that this backpack is cool, but you know what else is cool? A \u2018low taper fade!\u2019",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "mad",
+      "meaning": "Really, extremely, or crazy.",
+      "category": "general",
+      "usage": "Really, extremely, or crazy.",
+      "example": "It\u2019s mad hot outside.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "meatriding",
+      "meaning": "Excessively praising or defending someone in an embarrassing or over-the-top way.",
+      "category": "general",
+      "usage": "Excessively praising or defending someone in an embarrassing or over-the-top way.",
+      "example": "The comments turned messy once people started meatriding the creator.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "menty b",
+      "meaning": "Abbreviation for mental breakdown.",
+      "category": "abbreviation",
+      "usage": "Abbreviation for mental breakdown.",
+      "example": "There\u2019s too much going on right now. I feel on the edge of a menty b.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "mogging",
+      "meaning": "One- upping someone on appearance and attractiveness.",
+      "category": "general",
+      "usage": "One- upping someone on appearance and attractiveness.",
+      "example": "I wonder if Jared realizes he\u2019s mogging everyone in the weight room.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "munch",
+      "meaning": "A person who performs oral sex on a woman.",
+      "category": "general",
+      "usage": "A person who performs oral sex on a woman.",
+      "example": "I don\u2019t want to date him, he\u2019s a munch.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "netflix and chill",
+      "meaning": "A euphemism for hooking up.",
+      "category": "general",
+      "usage": "A euphemism for hooking up.",
+      "example": "I asked Ricky if he wanted to Netflix and chill, and he actually came ready with popcorn. lol",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "nsfw",
+      "meaning": "An acronym that stands for Not safe for work. Used to label content, such as images, videos, or links, that may contain explicit or inappropriate material not suitable for viewing in a professional or public setting.",
+      "category": "acronym",
+      "usage": "An acronym that stands for Not safe for work. Used to label content, such as images, videos, or links, that may contain explicit or inappropriate material not suitable for viewing in a professional or public setting.",
+      "example": "I can\u2019t open that link right now. It\u2019s marked as NSFW, and I\u2019m at school.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "omg",
+      "meaning": "An acronym that stands for: Oh my gosh/God, indicates something is shocking or surprising.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Oh my gosh/God, indicates something is shocking or surprising.",
+      "example": "omg, I can\u2019t believe you just said that!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "oml",
+      "meaning": "An acronym that stands for: Oh my Lord, an exclamation of surprise or excitement.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Oh my Lord, an exclamation of surprise or excitement.",
+      "example": "oml, you scared me!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "omw",
+      "meaning": "An acronym that stands for: On my way, a way to indicate a person is en route.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: On my way, a way to indicate a person is en route.",
+      "example": "omw! I\u2019ll be there in 20.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "ong",
+      "meaning": "On God, a way to show strong agreement with something, similar to \u201cI swear to God.\u201d",
+      "category": "general",
+      "usage": "On God, a way to show strong agreement with something, similar to \u201cI swear to God.\u201d",
+      "example": "I just saw them kissing! ong",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "on point",
+      "meaning": "Perfect, exactly right.",
+      "category": "general",
+      "usage": "Perfect, exactly right.",
+      "example": "His outfit is on point.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "only in ohio",
+      "meaning": "Used to label things that are strange or cursed.",
+      "category": "general",
+      "usage": "Used to label things that are strange or cursed.",
+      "example": "Why are there rats on the train? Only in Ohio.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "ops",
+      "meaning": "Opponents, either in video games or real life.",
+      "category": "general",
+      "usage": "Opponents, either in video games or real life.",
+      "example": "Dude, he got sent to the principal\u2019s office. The ops got him.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "otp",
+      "meaning": "An acronym that stands for One true pairing. Refers to a favorite or ideal romantic pairing between characters in a book, movie, TV show, or video game.",
+      "category": "acronym",
+      "usage": "An acronym that stands for One true pairing. Refers to a favorite or ideal romantic pairing between characters in a book, movie, TV show, or video game.",
+      "example": "I\u2019ve shipped this OTP since the pilot episode. They have the best chemistry on screen.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "plug",
+      "meaning": "A person who can supply someone with illegal or hard-to-find goods, especially drugs.",
+      "category": "general",
+      "usage": "A person who can supply someone with illegal or hard-to-find goods, especially drugs.",
+      "example": "Her older brother always has a plug.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "pmoys",
+      "meaning": "An acronym that stands for Put me on your Snapchat. Used as a request or invitation to add someone to their list of Snapchat contacts.",
+      "category": "acronym",
+      "usage": "An acronym that stands for Put me on your Snapchat. Used as a request or invitation to add someone to their list of Snapchat contacts.",
+      "example": "He sent me a PMOYS message on Instagram.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "poggers",
+      "meaning": "An expression of excitement, amazement, or enthusiasm. Mostly used by gamers.",
+      "category": "general",
+      "usage": "An expression of excitement, amazement, or enthusiasm. Mostly used by gamers.",
+      "example": "When he pulled off that incredible play, the chat exploded with poggers.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "preppy",
+      "meaning": "Describes an aesthetic or style, specifically one that\u2019s colorful, girly, and typically involves name brands like Lululemon.",
+      "category": "general",
+      "usage": "Describes an aesthetic or style, specifically one that\u2019s colorful, girly, and typically involves name brands like Lululemon.",
+      "example": "Your skirt is so cute and preppy!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "pressed",
+      "meaning": "Feeling annoyed or stressed about something.",
+      "category": "general",
+      "usage": "Feeling annoyed or stressed about something.",
+      "example": "Why are you so pressed?",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "pulling",
+      "meaning": "To attract attention from romantic interests.",
+      "category": "general",
+      "usage": "To attract attention from romantic interests.",
+      "example": "I saw him pull at least five girls at the party.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "put on blast",
+      "meaning": "To embarrass someone publicly over social media by denouncing or exposing them.",
+      "category": "general",
+      "usage": "To embarrass someone publicly over social media by denouncing or exposing them.",
+      "example": "He was put on blast for breaking up with her over a text.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "pwn",
+      "meaning": "To have power over someone or something.",
+      "category": "general",
+      "usage": "To have power over someone or something.",
+      "example": "That math test just pwned me!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "rad",
+      "meaning": "Awesome, or very good.",
+      "category": "general",
+      "usage": "Awesome, or very good.",
+      "example": "This view is rad.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "ran through",
+      "meaning": "A derogatory term to describe someone who is perceived as being overly sexually active or as having had too many sexual partners.",
+      "category": "general",
+      "usage": "A derogatory term to describe someone who is perceived as being overly sexually active or as having had too many sexual partners.",
+      "example": "Don\u2019t talk to him, he is so ran through. He\u2019s been with every girl in school.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "ratchet",
+      "meaning": "Someone who is out of control, or tacky.",
+      "category": "general",
+      "usage": "Someone who is out of control, or tacky.",
+      "example": "I\u2019m so sick of these ratchet girls coming over.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "read",
+      "meaning": "Publicly pointing out someone\u2019s flaws.",
+      "category": "general",
+      "usage": "Publicly pointing out someone\u2019s flaws.",
+      "example": "We don\u2019t hang out anymore, he was always reading me.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "real",
+      "meaning": "Another way to say \u201cserious.\u201d It is often used as part of other phrases like \u201cthe real real\u201d or \u201cbe f**king for real\u201d (often abbreviated to bffr).",
+      "category": "general",
+      "usage": "Another way to say \u201cserious.\u201d It is often used as part of other phrases like \u201cthe real real\u201d or \u201cbe f**king for real\u201d (often abbreviated to bffr).",
+      "example": "You think you can pull off that dress? Be so for real.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "receipts",
+      "meaning": "Evidence or proof of someone\u2019s actions or words, often used to support a claim.",
+      "category": "general",
+      "usage": "Evidence or proof of someone\u2019s actions or words, often used to support a claim.",
+      "example": "When she accused him of lying, he came prepared with receipts, showing screenshots of their conversations to prove his point.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "rizzler",
+      "meaning": "Someone who is very good at flirting or charming others.",
+      "category": "general",
+      "usage": "Someone who is very good at flirting or charming others.",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "rotflmao",
+      "meaning": "An acronym that stands for: Rolling on the floor laughing my a** off. A humorous and exaggerated way to express that something is funny or amusing.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Rolling on the floor laughing my a** off. A humorous and exaggerated way to express that something is funny or amusing.",
+      "example": "When she told her joke, everyone replied with ROTFLMAO and a string of laughing emojis.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "rn",
+      "meaning": "Abbreviation for: right now. Indicates something that\u2019s happening at the present moment.",
+      "category": "abbreviation",
+      "usage": "Abbreviation for: right now. Indicates something that\u2019s happening at the present moment.",
+      "example": "I\u2019m busy rn, can I call you later?",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "rpg",
+      "meaning": "An acronym that stands for: Role-playing game, a genre of games where the player controls a character and explores an imaginary world.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Role-playing game, a genre of games where the player controls a character and explores an imaginary world.",
+      "example": "She\u2019s really into RPG.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "salty",
+      "meaning": "Upset, resentful, or irritated.",
+      "category": "general",
+      "usage": "Upset, resentful, or irritated.",
+      "example": "He was salty after losing, so I told him to leave the game.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "savage",
+      "meaning": "A fierce or bold person.",
+      "category": "general",
+      "usage": "A fierce or bold person.",
+      "example": "He\u2019s savage on the court.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "say less",
+      "meaning": "Agreement or understanding, so no further explanation is needed because the point has been understood.",
+      "category": "general",
+      "usage": "Agreement or understanding, so no further explanation is needed because the point has been understood.",
+      "example": "When she suggested going to their favorite restaurant, he simply nodded and said, \u201csay less.\u201d",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "sending me",
+      "meaning": "Response to a funny text message, expressing extreme amusement.",
+      "category": "general",
+      "usage": "Response to a funny text message, expressing extreme amusement.",
+      "example": "lollll that panda meme is sending me!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "shade",
+      "meaning": "Subtle contempt or disgust for someone. This is often used as part of the phrase, \u201cthrow shade.\u201d",
+      "category": "general",
+      "usage": "Subtle contempt or disgust for someone. This is often used as part of the phrase, \u201cthrow shade.\u201d",
+      "example": "Did she just throw shade at me?",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "ship",
+      "meaning": "To support the romantic relationship between two people.",
+      "category": "general",
+      "usage": "To support the romantic relationship between two people.",
+      "example": "I totally ship Timothee Chalamet and Kylie Jenner.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "shook",
+      "meaning": "Shocked or surprised.",
+      "category": "general",
+      "usage": "Shocked or surprised.",
+      "example": "She actually did the assignment. I\u2019m shook!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "shorty",
+      "meaning": "An attractive girl",
+      "category": "general",
+      "usage": "An attractive girl",
+      "example": "Hey, shorty! Let\u2019s go grab a drink.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "sick",
+      "meaning": "Cool or awesome.",
+      "category": "general",
+      "usage": "Cool or awesome.",
+      "example": "Did you see that tackle? That was sick!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "simp",
+      "meaning": "Someone who is desperate for affection or romantic relationships.",
+      "category": "general",
+      "usage": "Someone who is desperate for affection or romantic relationships.",
+      "example": "Dude, you\u2019re being such a simp.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "skibidi toilet",
+      "meaning": "An animated YouTube series that depicts a dystopian world where mobile toilets with human heads popping out of their bowls war with humanoids who have cameras, speakers, or TVs for heads. By 2024, it has become popular with Gen Alpha and the youngest portion of Gen Z.",
+      "category": "general",
+      "usage": "An animated YouTube series that depicts a dystopian world where mobile toilets with human heads popping out of their bowls war with humanoids who have cameras, speakers, or TVs for heads. By 2024, it has become popular with Gen Alpha and the youngest portion of Gen Z.",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "slap",
+      "meaning": "Amazing or excellent.",
+      "category": "general",
+      "usage": "Amazing or excellent.",
+      "example": "This song slaps!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "slim thick/thicc",
+      "meaning": "A body type that combines both slimness and thickness. Usually someone who has a small waist, but wider hips and thighs, like an hourglass figure.",
+      "category": "general",
+      "usage": "A body type that combines both slimness and thickness. Usually someone who has a small waist, but wider hips and thighs, like an hourglass figure.",
+      "example": "She\u2019s got that slim thick figure that turns heads wherever she goes.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "small dick energy",
+      "meaning": "Someone who is insecure, but acts overly confident to compensate.",
+      "category": "general",
+      "usage": "Someone who is insecure, but acts overly confident to compensate.",
+      "example": "I would never date him. He has small dick energy.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "smash",
+      "meaning": "To have casual sex with someone or to hook up.",
+      "category": "general",
+      "usage": "To have casual sex with someone or to hook up.",
+      "example": "I love that actor! I would totally smash him.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "smh",
+      "meaning": "Abbreviation for shaking my head. Used when there are no words to describe something stupid.",
+      "category": "abbreviation",
+      "usage": "Abbreviation for shaking my head. Used when there are no words to describe something stupid.",
+      "example": "I warned Zane he didn\u2019t have enough time to shower before his flight. I was right, he missed it. Smh.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "smol",
+      "meaning": "Describes something small, cute, or endearing.",
+      "category": "general",
+      "usage": "Describes something small, cute, or endearing.",
+      "example": "That smol kitty is so adorable.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "smut",
+      "meaning": "Sexually explicit written content like romance novels or some fanfiction.",
+      "category": "general",
+      "usage": "Sexually explicit written content like romance novels or some fanfiction.",
+      "example": "That book is just smut.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "snack",
+      "meaning": "Someone who is attractive or appealing, often in a physical sense.",
+      "category": "general",
+      "usage": "Someone who is attractive or appealing, often in a physical sense.",
+      "example": "That lifeguard is a total snack.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "snatched",
+      "meaning": "Perfect, attractive.",
+      "category": "general",
+      "usage": "Perfect, attractive.",
+      "example": "She was looking snatched at the dance.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "sneaky link",
+      "meaning": "A secret hookup or relationship.",
+      "category": "general",
+      "usage": "A secret hookup or relationship.",
+      "example": "She was my sneaky link last year.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "so",
+      "meaning": "An acronym that stands for: Shout out, a public expression of greeting, praise, or acknowledgement directed towards a person. It is also known for Significant Other.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: Shout out, a public expression of greeting, praise, or acknowledgement directed towards a person. It is also known for Significant Other.",
+      "example": "SO to Sophie for taking this picture of me.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "sparks",
+      "meaning": "The exact moment that a joint of marijuana is or will be lit.",
+      "category": "general",
+      "usage": "The exact moment that a joint of marijuana is or will be lit.",
+      "example": "Party at my place tonight. Sparks at 8:30!",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "stoked",
+      "meaning": "Very Excited",
+      "category": "general",
+      "usage": "Very Excited",
+      "example": "I was so stoked he invited me.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "swole",
+      "meaning": "Having big muscles.",
+      "category": "general",
+      "usage": "Having big muscles.",
+      "example": "My goal for this year is to get really swole.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "swoop",
+      "meaning": "To give someone a ride, or get a ride from someone.",
+      "category": "general",
+      "usage": "To give someone a ride, or get a ride from someone.",
+      "example": "Since your car\u2019s in the shop, I\u2019ll swoop in 10.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "take a seat",
+      "meaning": "A dismissive or sarcastic remark, suggesting that someone should calm down or stop talking.",
+      "category": "general",
+      "usage": "A dismissive or sarcastic remark, suggesting that someone should calm down or stop talking.",
+      "example": "I have it all under control, why don\u2019t you take a seat.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "tf",
+      "meaning": "Abbreviation for The f**k. Used to express surprise, disbelief, anger, or frustration.",
+      "category": "abbreviation",
+      "usage": "Abbreviation for The f**k. Used to express surprise, disbelief, anger, or frustration.",
+      "example": "She couldn\u2019t believe her eyes when she saw the price tag. \u201cTF is this price?\u201d she exclaimed to her friend.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "tfw",
+      "meaning": "An acronym that stands for: That feeling when, used to describe an emotionally charged experience.",
+      "category": "acronym",
+      "usage": "An acronym that stands for: That feeling when, used to describe an emotionally charged experience.",
+      "example": "TFW you cozy up with a hot chocolate watching the snowfall outside.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "thot",
+      "meaning": "Acronym for \u201cthat ho over there.\u201d A derogatory term used to refer to someone who is perceived as promiscuous or sexually active.",
+      "category": "acronym",
+      "usage": "Acronym for \u201cthat ho over there.\u201d A derogatory term used to refer to someone who is perceived as promiscuous or sexually active.",
+      "example": "She felt hurt when she overheard her classmates whispering \u201cthot\u201d behind her back.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "thirsty",
+      "meaning": "Someone who is desperate or eager for attention, approval, or sex.",
+      "category": "general",
+      "usage": "Someone who is desperate or eager for attention, approval, or sex.",
+      "example": "He followed my Instagram account and immediately liked all my posts. He\u2019s so thirsty.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "thirst trap",
+      "meaning": "A sexually provocative photo, video, or comment posted on social media, often with the intention of receiving attention from viewers.",
+      "category": "general",
+      "usage": "A sexually provocative photo, video, or comment posted on social media, often with the intention of receiving attention from viewers.",
+      "example": "All he posts are thirst traps on Tiktok.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "totes",
+      "meaning": "Short for totally, completely.",
+      "category": "general",
+      "usage": "Short for totally, completely.",
+      "example": "She was totes out of line for saying that.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "touch grass",
+      "meaning": "Used to encourage someone to spend more time in the real world instead of online.",
+      "category": "general",
+      "usage": "Used to encourage someone to spend more time in the real world instead of online.",
+      "example": "After spending the entire weekend playing video games, his friends told him it was time to touch grass and get some sunlight.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "trap phone",
+      "meaning": "A prepaid mobile phone used primarily for illegal or questionable activities. The phone facilitates communication and transactions while minimizing the risk of being tracked or monitored by authorities.",
+      "category": "general",
+      "usage": "A prepaid mobile phone used primarily for illegal or questionable activities. The phone facilitates communication and transactions while minimizing the risk of being tracked or monitored by authorities.",
+      "example": "He kept a trap phone hidden in his car that only his clients had a number to.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "twin",
+      "meaning": "A true friend or friend that is so close that the two share a long list of interests, experiences, or characteristics.",
+      "category": "general",
+      "usage": "A true friend or friend that is so close that the two share a long list of interests, experiences, or characteristics.",
+      "example": "Hey twin, when you comin\u2019 over?",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "twizzy",
+      "meaning": "Variation of twin (see above).",
+      "category": "general",
+      "usage": "Variation of twin (see above).",
+      "example": "Hey twizzy, when you comin\u2019 over?",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "uhh",
+      "meaning": "Used to express confusion, sometimes in response to a joke that doesn\u2019t make sense.",
+      "category": "general",
+      "usage": "Used to express confusion, sometimes in response to a joke that doesn\u2019t make sense.",
+      "example": "Person 1: Don\u2019t you think my post was so funny? Didn\u2019t you get it?",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "unc",
+      "meaning": "Short for uncle, used to refer to a cool millennial uncle or to refer to slightly older people in general.",
+      "category": "general",
+      "usage": "Short for uncle, used to refer to a cool millennial uncle or to refer to slightly older people in general.",
+      "example": "Just walking up those stairs made me so tired, I think I\u2019ve reached unc status.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "upper decky",
+      "meaning": "A term for a Zyn (nicotine pouch) that\u2019s placed against the upper gums.",
+      "category": "general",
+      "usage": "A term for a Zyn (nicotine pouch) that\u2019s placed against the upper gums.",
+      "example": "I don\u2019t think I\u2019ve ever seen Heidi without an upper decky.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "v",
+      "meaning": "Abbreviation for Very.",
+      "category": "abbreviation",
+      "usage": "Abbreviation for Very.",
+      "example": "I\u2019m v excited for prom next weekend.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "vanilla",
+      "meaning": "Ordinary, boring, lacking special features.",
+      "category": "general",
+      "usage": "Ordinary, boring, lacking special features.",
+      "example": "I tried having a conversation with him, but he\u2019s so vanilla.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "vibe",
+      "meaning": "A feeling, an ambience.",
+      "category": "general",
+      "usage": "A feeling, an ambience.",
+      "example": "I love your whole vibe.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "vsco girl",
+      "meaning": "(pronounced visco), A young, usually white, girl who is adorned in trendy things and posts pictures edited on the VSCO app.",
+      "category": "general",
+      "usage": "(pronounced visco), A young, usually white, girl who is adorned in trendy things and posts pictures edited on the VSCO app.",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "she\u2019s wearing an oversized t",
+      "meaning": "shirt, Birks, and has a huge Hydro Flask. She\u2019s definitely trying to be a VSCO girl.",
+      "category": "general",
+      "usage": "shirt, Birks, and has a huge Hydro Flask. She\u2019s definitely trying to be a VSCO girl.",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "wallflower",
+      "meaning": "An introvert, someone who avoids the limelight and is more comfortable standing on the sidelines of an activity.",
+      "category": "general",
+      "usage": "An introvert, someone who avoids the limelight and is more comfortable standing on the sidelines of an activity.",
+      "example": "She\u2019s always been a wallflower at school dances.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "weird flex but ok",
+      "meaning": "Used to acknowledge someone\u2019s unusual statement or action, typically in response to the boasting or showing off. A light-hearted way to express acceptance or indifference to something that might be considered odd.",
+      "category": "general",
+      "usage": "Used to acknowledge someone\u2019s unusual statement or action, typically in response to the boasting or showing off. A light-hearted way to express acceptance or indifference to something that might be considered odd.",
+      "example": "You can brag about your collection of rubber ducks all you want. Weird flex, but ok.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "whip",
+      "meaning": "A car, especially one that is stylish.",
+      "category": "general",
+      "usage": "A car, especially one that is stylish.",
+      "example": "She just pulled up in her new whip.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "whole meal",
+      "meaning": "Describes someone who looks really good.",
+      "category": "general",
+      "usage": "Describes someone who looks really good.",
+      "example": "Dave looks like a whole meal.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "woke",
+      "meaning": "Someone who is aware of important facts, and racial and social injustices.",
+      "category": "general",
+      "usage": "Someone who is aware of important facts, and racial and social injustices.",
+      "example": "I used to be ignorant of what was happening around me, but now I\u2019m woke.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "wya",
+      "meaning": "An acronym that stands for Where you at? Commonly used in text messages to ask someone about their current location.",
+      "category": "acronym",
+      "usage": "An acronym that stands for Where you at? Commonly used in text messages to ask someone about their current location.",
+      "example": "Let me know wya and I\u2019ll come meet up.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "wyd",
+      "meaning": "An acronym that stands for What you doing? A casual way to ask someone what they are currently doing.",
+      "category": "acronym",
+      "usage": "An acronym that stands for What you doing? A casual way to ask someone what they are currently doing.",
+      "example": "WYD tonight?",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "xan",
+      "meaning": "Abbreviation for: Xanax, a sedative used to treat anxiety which is often abused.",
+      "category": "abbreviation",
+      "usage": "Abbreviation for: Xanax, a sedative used to treat anxiety which is often abused.",
+      "example": "I hope his dad finally realizes who\u2019s been stealing his xan.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "yaas",
+      "meaning": "An enthusiastic way of saying \u201cyes.\u201d Used to express excitement, approval, or agreement.",
+      "category": "general",
+      "usage": "An enthusiastic way of saying \u201cyes.\u201d Used to express excitement, approval, or agreement.",
+      "example": "Yaas, queen! Way to nail that dance routine.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "yeet",
+      "meaning": "To throw something forcefully.",
+      "category": "general",
+      "usage": "To throw something forcefully.",
+      "example": "He just yeeted a peanut butter jar out the window.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "zaddy",
+      "meaning": "A handsome, fashionable, older man.",
+      "category": "general",
+      "usage": "A handsome, fashionable, older man.",
+      "example": "She found a zaddy as soon as she graduated.",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "6",
+      "meaning": "7 \u2013 Doesn\u2019t have a specific meaning. A viral way teens are responding to any question. Said in a sing-songy way, while doing a gesture with both hands as if weighing two options.",
+      "category": "general",
+      "usage": "7 \u2013 Doesn\u2019t have a specific meaning. A viral way teens are responding to any question. Said in a sing-songy way, while doing a gesture with both hands as if weighing two options.",
+      "example": "\u201cHow are you doing? \u201c",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "\u201c6",
+      "meaning": "7\u201d",
+      "category": "general",
+      "usage": "7\u201d",
+      "example": "",
+      "status": "active",
+      "authenticity_score": 8
+    },
+    {
+      "term": "[3rd",
+      "meaning": "Party App Guide](https://gabb.com/app-guide/)",
+      "category": "general",
+      "usage": "Party App Guide](https://gabb.com/app-guide/)",
+      "example": "[Parent Guide](https://gabb.com/guide/)",
+      "status": "active",
+      "authenticity_score": 8
     }
   ]
 }

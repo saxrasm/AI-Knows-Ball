@@ -32,3 +32,15 @@
 {"input": "I'm in a very bad situation but I'm pretending to be okay.", "output": "everything is going wrong \ud83d\ude43", "type": "normal_to_genz", "notes": "upside down face for masking pain"}
 {"input": "No, I will not do that.", "output": "no \u2764\ufe0f", "type": "normal_to_genz", "notes": "heart emoji for soft/passive rejection"}
 {"input": "Wow, I am shocked by that news.", "output": "he really said that? \ud83d\udc41\ufe0f\ud83d\udc44\ud83d\udc41\ufe0f", "type": "normal_to_genz", "notes": "shocked face emoji combo"}
+{"input": "I am so excited for the concert.", "output": "i'm amped for the concert tonight! lfg!", "type": "normal_to_genz", "notes": "amped = excited, lfg = let's go"}
+{"input": "He is very stylish and confident.", "output": "he's got crazy aura and drip fr fr", "type": "normal_to_genz", "notes": "aura = coolness/presence, drip = style"}
+{"input": "I am going to leave early.", "output": "i'm about to dip", "type": "normal_to_genz", "notes": "dip = leave"}
+{"input": "She is pretending to be someone else online.", "output": "she's a total catfish", "type": "normal_to_genz", "notes": "catfish = fake online persona"}
+{"input": "I have to admit the truth, that was an amazing meal.", "output": "ngl, that meal was bussin", "type": "normal_to_genz", "notes": "ngl = not gonna lie, bussin = really good"}
+{"input": "I will spend the whole weekend in bed resting.", "output": "ready for some much-needed bed rot this weekend", "type": "normal_to_genz", "notes": "bed rot = spending extended time in bed"}
+{"input": "I am so excited for the concert.", "output": "i'm amped for the concert tonight! lfg!", "type": "normal_to_genz", "notes": "amped = excited, lfg = let's go"}
+{"input": "He is very stylish and confident.", "output": "he's got crazy aura and drip fr fr", "type": "normal_to_genz", "notes": "aura = coolness/presence, drip = style"}
+{"input": "I am going to leave early.", "output": "i'm about to dip", "type": "normal_to_genz", "notes": "dip = leave"}
+{"input": "She is pretending to be someone else online.", "output": "she's a total catfish", "type": "normal_to_genz", "notes": "catfish = fake online persona"}
+{"input": "I have to admit the truth, that was an amazing meal.", "output": "ngl, that meal was bussin", "type": "normal_to_genz", "notes": "ngl = not gonna lie, bussin = really good"}
+{"input": "I will spend the whole weekend in bed resting.", "output": "ready for some much-needed bed rot this weekend", "type": "normal_to_genz", "notes": "bed rot = spending extended time in bed"}
