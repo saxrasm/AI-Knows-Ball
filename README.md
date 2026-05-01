@@ -105,6 +105,3 @@ Got new slang? Don't gatekeep, drop a PR!
 
 MIT — free to use, modify, and distribute. Just don't be mid about it.
 
-<div align="center">
-  <i>Built by <a href="https://github.com/saxrasm">@saxrasm</a> · AI Knows Ball</i>
-</div>
