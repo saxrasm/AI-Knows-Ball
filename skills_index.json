@@ -1,23 +1,14 @@
 {
-  "version": "1.0.0",
-  "last_updated": "2026-04-29",
+  "version": "2.0.0",
+  "last_updated": "2026-05-01",
   "skills": [
     {
-      "name": "genz-translator",
-      "description": "Translates standard English to Gen Z slang and explains Gen Z terms in plain English",
-      "path": "skills/genz-translator/SKILL.md",
-      "tags": ["language", "gen-z", "translation", "slang", "culture"],
+      "name": "genz",
+      "description": "The ultimate Gen Z AI skill. Authentically understands, speaks, and vibes with Gen Z culture.",
+      "path": "skills/genz/SKILL.md",
+      "tags": ["language", "gen-z", "culture", "slang", "vibe"],
       "author": "saxrasm",
-      "version": "1.0.0",
-      "compatibility": ["gemini", "claude", "copilot", "cursor", "windsurf"]
-    },
-    {
-      "name": "genz-detector",
-      "description": "Scores text for Gen Z authenticity and identifies misused or expired slang",
-      "path": "skills/genz-detector/SKILL.md",
-      "tags": ["language", "gen-z", "analysis", "authenticity", "slang"],
-      "author": "saxrasm",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "compatibility": ["gemini", "claude", "copilot", "cursor", "windsurf"]
     }
   ]

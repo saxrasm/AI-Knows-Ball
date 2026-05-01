@@ -1,38 +1,28 @@
+<div align="center">
+  
 # AI Knows Ball
 
-> Teaching AI to talk like a real one. No cap.
+*Teaching your AI to talk like a real one. No cap.*
 
-**AI Knows Ball** is the ultimate skill pack to stop your AI from being an NPC. It trains assistants to understand, speak, and detect Gen Z language — fr fr. Built on the [Antigravity Skills](https://github.com/guanyang/antigravity-skills) format so you can plug it in and slay immediately.
+[![Antigravity Skills](https://img.shields.io/badge/Antigravity-Compatible-blue.svg)](https://github.com/guanyang/antigravity-skills)
+[![Slang Words](https://img.shields.io/badge/Slang%20Dictionary-250%2B%20Terms-green.svg)](#dataset)
+[![Version](https://img.shields.io/badge/Version-2.0.0-purple.svg)]()
+
+</div>
 
 ---
 
-## The Skills
+**AI Knows Ball** is the ultimate skill pack to stop your AI from being an NPC. It trains assistants to understand, speak, and vibe with Gen Z language naturally. Built on the **Antigravity Skills** format so you can plug it in and slay immediately.
+
+We ditched the complex "translators" and "detectors". Now, it's just one unified skill that simply *gets it*.
+
+---
+
+## The Skill
 
 | Skill | Vibe Check |
 |---|---|
-| [`@genz-translator`](skills/genz-translator/SKILL.md) | Translates boomer speak ↔ Gen Z bops |
-| [`@genz-detector`](skills/genz-detector/SKILL.md) | Scores the authenticity (0–10). Don't be mid. |
-
----
-
-## 📂 The Setup
-
-```
-AI Knows Ball/
-├── skills/
-│   ├── genz-translator/
-│   │   ├── SKILL.md              # Core skill definition
-│   │   ├── examples/             # Usage examples
-│   │   └── resources/
-│   │       └── slang_dict.json   # Master Gen Z slang dictionary
-│   └── genz-detector/
-│       ├── SKILL.md              # Core skill definition
-│       └── examples/             # Usage examples
-├── data/
-│   └── training_conversations.jsonl  # Training input/output pairs
-├── skills_index.json             # Skills metadata registry
-└── README.md
-```
+| [`@genz`](skills/genz/SKILL.md) | Makes your AI authentically understand and speak Gen Z culture. |
 
 ---
 
@@ -58,54 +48,35 @@ mkdir -p .agent/skills
 cp -r skills/* .agent/skills/
 ```
 
-> 💡 Tip: For maximum compatibility, copy into `.agent/skills/` — most tools auto-discover it.
+> **Tip:** For maximum compatibility, copy into `.agent/skills/` — most tools auto-discover it.
 
 ---
 
 ## Usage
 
-Once installed, invoke in your AI assistant:
+Once installed, simply invoke `@genz` in your AI assistant:
 
+```text
+@genz What does "skibidi" even mean?
 ```
-@genz-translator I am very tired and don't want to attend this meeting.
-```
-```
-→ i'm so cooked fr fr, can't even think abt that meeting rn 💀
-```
+> **AI:** It's a nonsensical Gen Z/Gen Alpha slang term that originated from a weird YouTube series. Depending on context, it can mean something is bad, crazy, or it's just used as filler. 
 
+```text
+@genz Tell my boss I can't come to work today because I'm exhausted, but make it Gen Z.
 ```
-@genz-translator Explain this: "no ❤️"
-```
-```
-→ A "soft" no — using the heart emoji to lessen the blow of a rejection or disagreement.
-```
-
-```
-@genz-detector "Our new product is totally bussin and on fleek! YOLO!"
-```
-```
-→ Authenticity Score: 2/10 | Verdict: Corporate-trying-to-be-cool. Major L.
-```
-
-```
-@genz-translator What does "delulu" mean?
-```
-```
-→ Delusional — believing something unrealistic. Still very active slang.
-```
+> **AI:** "hey i'm absolutely cooked today ngl. gonna have to take a bed rot day fr fr."
 
 ---
 
 ## Dataset
 
-The `data/` folder contains structured training data:
+The `data/` folder contains structured training data that powers the skill:
 
-- **`training_conversations.jsonl`** — 45+ input/output translation pairs (JSONL format)
-- **`slang_dict.json`** — 250+ terms with meanings, examples, authenticity scores, and active/expired status (including Gen Z emoji meanings)
+- **`slang_dict.json`** — **250+ terms** with meanings, examples, authenticity scores, and active/expired status (including Gen Z emoji meanings)
+- **`training_conversations.jsonl`** — **45+** input/output conversation pairs for AI fine-tuning
 
-### Data Schema
+### Data Schema Example
 
-**slang_dict.json entry:**
 ```json
 {
   "term": "rizz",
@@ -118,31 +89,15 @@ The `data/` folder contains structured training data:
 }
 ```
 
-**training_conversations.jsonl entry:**
-```json
-{
-  "input": "I am very tired today.",
-  "output": "i'm so cooked fr fr 💀",
-  "type": "normal_to_genz",
-  "notes": "lowercase, fr fr for emphasis, 💀 for exhaustion"
-}
-```
-
-**Translation types:**
-- `normal_to_genz` — Standard English → Gen Z
-- `genz_to_normal` — Gen Z slang → plain English explanation
-- `corporate_to_genz` — Corporate speak → Gen Z
-
 ---
 
 ## Pull Up (Contribute)
 
 Got new slang? Don't gatekeep, drop a PR!
 
-1. Add new terms to `skills/genz-translator/resources/slang_dict.json`
+1. Add new terms to `skills/genz/resources/slang_dict.json`
 2. Add training pairs to `data/training_conversations.jsonl`
-3. Follow the existing JSON schema
-4. Make sure the term is actually current (check `authenticity_score` — expired terms score 0-2)
+3. Make sure the term is actually current (check the vibe).
 
 ---
 
@@ -150,6 +105,6 @@ Got new slang? Don't gatekeep, drop a PR!
 
 MIT — free to use, modify, and distribute. Just don't be mid about it.
 
----
-
-*Built by [@saxrasm](https://github.com/saxrasm) · AI Knows Ball 🏀*
+<div align="center">
+  <i>Built by <a href="https://github.com/saxrasm">@saxrasm</a> · AI Knows Ball</i>
+</div>
